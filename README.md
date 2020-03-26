@@ -3,3 +3,5 @@
 # Estudo de caso das aulas de Eng. Software
 
 # ALTERAÇÃO NA BRANCH #
+
+# Outra alteraçao para jogar as coisas do GitHub para o GitHub Desktop #
